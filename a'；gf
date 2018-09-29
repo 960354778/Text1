@@ -1,0 +1,36 @@
+[33mcommit b294418a6817d05635870fe80b26e6dd888cd906[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: tlf <960354778@qq.com>
+Date:   Fri Sep 28 11:45:50 2018 +0800
+
+    1.txt or readme.txt
+
+ 1.txt      | 1 [32m+[m
+ readme.txt | 3 [32m++[m[31m-[m
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 748fcea58944413bef30ddaabc0281c553e961d1[m
+Author: tlf <960354778@qq.com>
+Date:   Fri Sep 28 11:21:15 2018 +0800
+
+    fff3
+
+ readme.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit a7fd8a8300a41156c1072baa35fe7a24539b1fab[m
+Author: tlf <960354778@qq.com>
+Date:   Fri Sep 28 11:19:33 2018 +0800
+
+    fff2
+
+ readme.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 55af0d257bdfc4ae38f70c1eaacba1bba4a5f48f[m
+Author: tlf <960354778@qq.com>
+Date:   Fri Sep 28 11:17:00 2018 +0800
+
+    fff
+
+ readme.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
